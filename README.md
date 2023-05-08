@@ -2,6 +2,8 @@
 
 This is a simple CSV viewer built with [Tauri](https://tauri.studio/) and [Yew](https://yew.rs/).
 
+![App screenshot](/images/screenshot.png?raw=true "Loaded file")
+
 ## Try it out!
 
 1. Install [Rust](https://rustup.rs/)
