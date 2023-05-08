@@ -67,6 +67,17 @@ td {
   word-wrap: break-word
 }
 
+.navigation {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}
+
+.navigation * {
+  display: table-cell;
+  text-align: center;
+}
+
 @media (prefers-color-scheme: dark) {
   :root {
     color: #f6f6f6;
